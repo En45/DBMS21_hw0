@@ -1,0 +1,9 @@
+cd to your file
+git clone url
+cd to your download file
+config user.name your_user_name
+config user.email your_email
+
+git add "file_name"
+git commit -m "add file_name"
+git push
